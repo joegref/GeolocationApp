@@ -45,15 +45,15 @@
     [
         "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1551311403409,
             "changeTime": 1551311403409,
-            "isWorkspace": false,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -113,105 +113,105 @@
     [
         "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9582,
-            "modifiedTime": 1551285930050,
-            "changeTime": 1551285930050,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 9721,
+            "modifiedTime": 1551389084581,
+            "changeTime": 1551389084581,
+            "contentHash": "a40c4a3e4d9723deefbce6b863c1fe0e697e69a9"
         }
     ],
     [
         "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9630,
-            "modifiedTime": 1551285930055,
-            "changeTime": 1551285930055,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 9769,
+            "modifiedTime": 1551389084592,
+            "changeTime": 1551389084592,
+            "contentHash": "bdbe11f85b7bb42203785fc3b996824ce0a8a761"
         }
     ],
     [
         "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9630,
-            "modifiedTime": 1551285930059,
-            "changeTime": 1551285930059,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 9769,
+            "modifiedTime": 1551389084601,
+            "changeTime": 1551389084601,
+            "contentHash": "2043328941374173dc59ab1758a778f863054b7e"
         }
     ],
     [
         "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9582,
-            "modifiedTime": 1551285930062,
-            "changeTime": 1551285930062,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 9721,
+            "modifiedTime": 1551389084614,
+            "changeTime": 1551389084614,
+            "contentHash": "13b7736fbbdf4ea26ad555255b4e542d03fbf9c9"
         }
     ],
     [
         "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 4955,
-            "modifiedTime": 1551309891237,
-            "changeTime": 1551309891237,
-            "contentHash": "04f4f838ad96944e801d4b5b1e45ec25e706cc2c",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 5114,
+            "modifiedTime": 1551389084623,
+            "changeTime": 1551389084623,
+            "contentHash": "b71dd260cd3cd267fb72612fd3d177375b2cd7af"
         }
     ],
     [
         "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 4959,
-            "modifiedTime": 1551309891243,
-            "changeTime": 1551309891243,
-            "contentHash": "ab5b2bab9688fc9c3d3e257d7f61d4b4e202b25f",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 5118,
+            "modifiedTime": 1551389084627,
+            "changeTime": 1551389084627,
+            "contentHash": "39dd394c2ba2af68f6d0dd5fe313d756d48f19b1"
         }
     ],
     [
         "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 19085,
-            "modifiedTime": 1551309891264,
-            "changeTime": 1551309891264,
-            "contentHash": "66881b57f9ce9b6ed38a4fafa5b161473ac0b551",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 19244,
+            "modifiedTime": 1551389084646,
+            "changeTime": 1551389084646,
+            "contentHash": "3cfdbdd52d439d0ba148299bb42168d12392f23b"
         }
     ],
     [
         "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 5295,
-            "modifiedTime": 1551309891270,
-            "changeTime": 1551309891270,
-            "contentHash": "2b57f5e271a80e9ad1527de5848c1c7725493255",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 5454,
+            "modifiedTime": 1551389084649,
+            "changeTime": 1551389084649,
+            "contentHash": "287d0b14d4fcccc44b9bfc7ab38a007a83682626"
         }
     ],
     [
@@ -243,14 +243,14 @@
     [
         "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/objects/Account/fields",
         {
+            "state": "u",
             "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1551285930041,
-            "changeTime": 1551285930041,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 128,
+            "modifiedTime": 1551389084567,
+            "changeTime": 1551389084567,
+            "contentHash": "cbb209e75c0f04cd38699e5aa943f1395af170c3"
         }
     ],
     [
@@ -555,14 +555,14 @@
     [
         "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 542,
             "modifiedTime": 1551311492288,
             "changeTime": 1551311492288,
-            "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7"
+            "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -620,14 +620,14 @@
     [
         "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 395,
             "modifiedTime": 1551311507218,
             "changeTime": 1551311507218,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1023,14 +1023,14 @@
     [
         "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 330,
             "modifiedTime": 1551311539955,
             "changeTime": 1551311539955,
-            "contentHash": "9c0b549aa28ba0a5368296b95374b3c5e9e190c3"
+            "contentHash": "9c0b549aa28ba0a5368296b95374b3c5e9e190c3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1088,14 +1088,14 @@
     [
         "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 830,
             "modifiedTime": 1551311571086,
             "changeTime": 1551311571086,
-            "contentHash": "22f2320dc148f0e43c67b8f5d2dc75933cb07c22"
+            "contentHash": "22f2320dc148f0e43c67b8f5d2dc75933cb07c22",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1127,40 +1127,53 @@
     [
         "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/aura/AccountsLoaded",
         {
-            "state": "u",
             "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/aura/AccountsLoaded",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1551311403410,
             "changeTime": 1551311403410,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
         {
-            "state": "u",
             "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 100,
             "modifiedTime": 1551311432092,
             "changeTime": 1551311432092,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1551311403410,
             "changeTime": 1551311403410,
-            "contentHash": "5dfe3f744956751581eba3002d0680a136532eb1"
+            "contentHash": "5dfe3f744956751581eba3002d0680a136532eb1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/objects/Account/fields/Test_Text__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jgrefenstette/Documents/Dev Trailheads/geolocation/force-app/main/default/objects/Account/fields/Test_Text__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 369,
+            "modifiedTime": 1551389084567,
+            "changeTime": 1551389084567,
+            "contentHash": "1b002b4f1b61fbd352df9c0a89efbac49c30e20f"
         }
     ]
 ]
